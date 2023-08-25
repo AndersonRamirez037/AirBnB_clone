@@ -31,7 +31,7 @@ Commands | Description | Usage
 
 ## Execution
 The shell should work like this in interactive mode:
-# Interactive Mode 
+#### Interactive Mode 
 ```
 $ ./console.py
 (hbnb) help
@@ -46,7 +46,7 @@ EOF  help  quit
 $
 ```
 But also in non-interactive mode: 
-# Non-Interactive Mode 
+#### Non-Interactive Mode 
 ```
 $ echo "help" | ./console.py
 (hbnb)
